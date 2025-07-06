@@ -1,26 +1,13 @@
 **# 👋 Bonjour, je suis PalmaSkry
 
-🎓 Étudiant à l’école 42 Lausanne | 💻 Développement bas niveau & programmation système  
-📍 Basé en Suisse | En formation continue, passionné par le code propre et structuré
+🎓 Étudiant à l’école 42 Lausanne | 💻 Développement
+📍 Basé en Suisse, à Genève | En formation continue, passionné par le code propre et structuré
 
 ---
 
 ## 🧭 À propos
 
 Je suis actuellement en formation à l’école 42, une école informatique qui valorise l’apprentissage autonome, le travail en équipe et la résolution de problèmes concrets par projets.
-
-Je développe principalement en C, en approfondissant les fondamentaux de l’algorithmique, de la mémoire et de l’architecture Unix.
-
----
-
-## 🧰 Compétences principales
-
-- **Langages :** C, Bash, C++
-- **Concepts :** gestion mémoire, pointeurs, allocation dynamique, buffers, chaînes de caractères
-- **Outils :** Git, Makefile, Valgrind, VSCode
-- **Méthodologie :** peer-learning, revue de code, travail par projets
-
----
 
 ## 📈 Statistiques GitHub
 
@@ -33,7 +20,6 @@ Je développe principalement en C, en approfondissant les fondamentaux de l’al
 ## 🛠️ Technologies préférées
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -50,5 +36,4 @@ Je développe principalement en C, en approfondissant les fondamentaux de l’al
 
 ## 📫 Me contacter
 
-- LinkedIn : [Ton lien LinkedIn ici]
-- Email : ton.email@example.com
+- LinkedIn : https://www.linkedin.com/in/mathieu-taramarcaz-68b9101b9/
