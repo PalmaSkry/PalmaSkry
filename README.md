@@ -1,4 +1,4 @@
-**# 👋 Bonjour, je suis PalmaSkry
+##👋 Bonjour, je suis PalmaSkry
 
 🎓 Étudiant à l’école 42 Lausanne | 💻 Développement
 📍 Basé en Suisse, à Genève | En formation continue, passionné par le code propre et structuré
