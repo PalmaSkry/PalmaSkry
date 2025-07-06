@@ -34,6 +34,3 @@ Je suis actuellement en formation à l’école 42, une école informatique qui 
 
 ---
 
-## 📫 Me contacter
-
-- LinkedIn : https://www.linkedin.com/in/mathieu-taramarcaz-68b9101b9/
