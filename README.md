@@ -1,4 +1,4 @@
-## 👋 Bonjour, je suis PalmaSkry
+## 👋 Salut, bienvenue sur mon profil Github
 
 🎓 Étudiant à l’école 42 Lausanne | 💻 Développement
 
