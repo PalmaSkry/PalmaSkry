@@ -2,7 +2,7 @@
 
 🎓 Étudiant à l’école 42 Lausanne | 💻 Développement
 
-📍 Basé en Suisse, à Genève | En formation continue, passionné par le code propre et structuré
+📍 Basé en Suisse, à Genève | 42 Lausanne
 
 ---
 
