@@ -2,7 +2,7 @@
 
 🎓 Étudiant à l’école 42 Lausanne | 💻 Développement
 
-📍 Basé en Suisse, à Genève | 42 Lausanne
+📍 Basé en Suisse, à Genève
 
 ---
 
