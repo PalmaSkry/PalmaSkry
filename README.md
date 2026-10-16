@@ -1,37 +1,60 @@
-## 👋 Salut, bienvenue sur mon profil Github
+```console
+$ whoami
+mathieu — étudiant à 42 Lausanne · développeur web junior
 
-🎓 Étudiant à l’école 42 Lausanne | 💻 Développement
+$ cat objectif.txt
+Je cherche un stage ou un premier poste en développement web en Suisse romande.
 
-📍 Basé en Suisse, à Genève
+$ pwd
+/suisse/geneve
+```
 
----
+## 🚀 Projets
 
-## 🧭 À propos
+| Projet | Description | Stack |
+|---|---|---|
+| **Transcendance** 🚧 | App web multi-utilisateurs à 5| Next.js · Node.js · PostgreSQL · Docker |
+| **Ornik** 🚧 | GPS pour la moto trail qui privilégie les pistes non goudronnées | JavaScript · Express · GraphHopper · OSM |
+| **ft_irc** | Serveur IRC en C++98 : un seul `poll()`, sockets non bloquantes | C++ · TCP |
+| **Inception** | Infrastructure web Docker : Nginx (TLS) · WordPress · MariaDB | Docker · Nginx |
+| [**minishell**](https://github.com/PalmaSkry/Minishell) | Shell Unix en C à deux — pipes, redirections, zéro fuite mémoire | C · Unix |
+| **cub3d** | Moteur 3D en raycasting façon Wolfenstein | C · MiniLibX |
 
-Je suis actuellement en formation à l’école 42, une école informatique qui valorise l’apprentissage autonome, le travail en équipe et la résolution de problèmes concrets par projets.
+🚧 = en cours
 
-## 📈 Statistiques GitHub
+## 🛠️ Stack
 
-![PalmaSkry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PalmaSkry&show_icons=true&theme=default)
+**Langages**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PalmaSkry&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+**Web**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
----
+**Infra & outils**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🛠️ Technologies préférées
+## 🎯 En ce moment
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- 🔐 Sécurité de **Transcendance** : authentification, permissions, protection des données
+- 🏍️ **Ornik** : modèle de routing off-road sur les données OpenStreetMap
+- 💼 Recherche d'un stage / premier poste en développement web
 
----
+## 📫 Me trouver
 
-## 🎯 Objectifs
+[![Portfolio](https://img.shields.io/badge/Portfolio-4ade80?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://TON-DOMAINE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-taramarcaz)
 
-- Renforcer mes bases en programmation système
-- Approfondir la sécurité, l’algorithmie, et les bonnes pratiques de code
-- Explorer Python et d’autres langages modernes
-
----
-
+> La plupart de mes projets 42 sont en dépôt privé : demandez-moi un accès, je le donne volontiers.
