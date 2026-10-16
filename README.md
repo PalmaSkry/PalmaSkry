@@ -29,7 +29,6 @@ $ pwd
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -48,7 +47,7 @@ $ pwd
 
 ## 🎯 En ce moment
 
-- 🔐 Sécurité de **Transcendance** : authentification, permissions, protection des données
+- 🔐 Backend de **Transcendance** : NestJS 
 - 🏍️ **Ornik** : modèle de routing off-road sur les données OpenStreetMap
 - 💼 Recherche d'un stage / premier poste en développement web
 
