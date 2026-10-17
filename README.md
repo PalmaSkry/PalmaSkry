@@ -15,10 +15,10 @@ $ pwd
 |---|---|---|
 | **Transcendance** 🚧 | App web multi-utilisateurs à 5 — je m'occupe surtout du back-end (API, base de données, utilisateurs) | NestJS · TypeScript · PostgreSQL · Docker |
 | **Ornik** 🚧 | GPS pour la moto trail qui privilégie les pistes non goudronnées | JavaScript · Express · GraphHopper · OSM |
-| **ft_irc** | Serveur IRC en C++98 : un seul `poll()`, sockets non bloquantes | C++ · TCP |
-| **Inception** | Infrastructure web Docker : Nginx (TLS) · WordPress · MariaDB | Docker · Nginx |
+| [**ft_irc**](https://github.com/PalmaSkry/ft_irc) | Serveur IRC en C++98 : un seul `poll()`, sockets non bloquantes | C++ · TCP |
+| [**Inception**](https://github.com/PalmaSkry/Inception) | Infrastructure web Docker : Nginx (TLS) · WordPress · MariaDB | Docker · Nginx |
 | [**minishell**](https://github.com/PalmaSkry/Minishell) | Shell Unix en C à deux — pipes, redirections, zéro fuite mémoire | C · Unix |
-| **cub3d** | Moteur 3D en raycasting façon Wolfenstein | C · MiniLibX |
+| [**cub3d**](https://github.com/PalmaSkry/cub3d) | Moteur 3D en raycasting façon Wolfenstein | C · MiniLibX |
 
 🚧 = en cours
 
